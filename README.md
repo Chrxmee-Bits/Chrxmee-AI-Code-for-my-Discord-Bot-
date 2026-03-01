@@ -3,4 +3,4 @@ Making a discord AI bot that can communicate with users with a complicated setup
 
 This bot can be used if you have no friends and needs someone to talk to or just to answer a simple question. it can be from convos to human-like interactions with pre-built custom commands and uh yeah.
 
-Commands will be prefix and slash if you prefer which.
+Commands will only be slash prefix, dont beg for prefix cmds please.
